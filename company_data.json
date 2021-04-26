@@ -1,4 +1,5 @@
 [
+  "data": [
   {
     "_id": "60865c331b3bfd6736ed2d4a",
     "name": "Montoya Bird",
@@ -545,4 +546,5 @@
     "company": "EXODOC",
     "email": "kaitlinfischer@exodoc.com"
   }
+  ]
 ]
